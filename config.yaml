@@ -1,3 +1,5 @@
 # App configs
-window_width: 800
-window_height: 600
+width: 800
+width_px: "800px"
+height: 600
+height_px: "600px"
